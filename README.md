@@ -6,10 +6,10 @@
 - 📫 How to reach me: wojtarowicz.pawel@gmail.com
 
 ### What I've learned so far:
-<img src="https://user-images.githubusercontent.com/61045489/168044998-4ce29483-5470-4385-a8fb-7f8505a83dae.png" width=8% height=8%> <img src="https://user-images.githubusercontent.com/61045489/168045752-515f4b1e-f5e1-46c5-a2bd-c87194e97b23.png" width=6% height=6%> and Web Scrapping
+<img src="https://user-images.githubusercontent.com/61045489/168044998-4ce29483-5470-4385-a8fb-7f8505a83dae.png" width=8% height=8%>  and Web Scrapping
 
 ### Next steps🤔: 
-<img src="https://user-images.githubusercontent.com/61045489/168041776-f2fa9567-a66d-4e91-bf31-b28d11f69cbe.png" width=5% height=5%> 
+<img src="https://user-images.githubusercontent.com/61045489/168045752-515f4b1e-f5e1-46c5-a2bd-c87194e97b23.png" width=6% height=6%>
 
 
 <!--
