@@ -1,7 +1,7 @@
 ### Hi there👋, my name is Paul and I am currently working as a system administrator in a reputable company for more than 7 years. In 2021, I decided to become a Python Developer. Since then I have been systematically learning and exploring my knowledge by coding various applications. My favorite area is pure backend. Over time I have created this repository to collect my applications and test new knowledge. I hope that soon I will be able to find a company where I can take my first steps as a programmer. 
 
 - 🌱 I'm currently learning Python.
-- 🔭 I’m currently coding *Money Tracker*
+- 🔭 I’m currently coding *Password manager*
 - 🏫 In my free time I write simple applications to understand the functions and methods I've learned so far. e.g. working with db, connecting to API, operating on larger data sets.
 - 📫 How to reach me: wojtarowicz.pawel@gmail.com
 
