@@ -8,7 +8,7 @@
 ### What I've learned so far:
 <img src="https://user-images.githubusercontent.com/61045489/168044998-4ce29483-5470-4385-a8fb-7f8505a83dae.png" width=8% height=8%> <img src="https://user-images.githubusercontent.com/61045489/168045752-515f4b1e-f5e1-46c5-a2bd-c87194e97b23.png" width=6% height=6%> <img src="https://user-images.githubusercontent.com/61045489/172386897-8f6cb929-ff5e-4356-8bf0-1a2107f6d95e.png" width=6% height=6%> and Web Scrapping
 
-### Next steps🤔: Password manager with GUI 
+### Next steps🤔: ...
 
 
 
