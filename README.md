@@ -5,9 +5,9 @@ I am currently working as a system administrator in a reputable company for more
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawel-wojtarowicz&label=Profile%20views&color=0e75b6&style=flat" alt="pawel-wojtarowicz" /> </p>
 
-- 🔭 I’m currently working on [Streamlit_projects](https://digital-cv-production.up.railway.app)
+- 🔭 I’m currently working on Django TODO app
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://digital-cv-production.up.railway.app](https://digital-cv-production.up.railway.app)
 
