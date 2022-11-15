@@ -7,7 +7,7 @@ I am currently working as a system administrator in a reputable company for more
 
 - 🔭 I’m currently working on Django TODO app
 
-- 🌱 I’m currently learning **Django and Bootstrap**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://digital-cv-production.up.railway.app](https://digital-cv-production.up.railway.app)
 
